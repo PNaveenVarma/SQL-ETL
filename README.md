@@ -1,17 +1,18 @@
 # SQL-ETL
 
-Netflix Evolution: Unveiling Content Trends and Recommendations (Unsupervised ML)
-Netflix Evolution: Unveiling Content Trends and Recommendations (Unsupervised ML)
-￼
-Project links
+## 1
+<h1> Case Study in ETL and Datawarehousing</h1>
 
-GitHub
+Project link
+- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/ETL-and-Data-warehousing)
 
 Skills
-Python Data Analysis Machine Learning Unsupervised Machine Learning Clustering
+- SSIS |  SSMS | ETL | Microsoft SQL Server 
 
 About this project
+- Crafted an operational data warehouse utilizing SSMS and SSIS to facilitate the Business Intelligence team in constructing executive dashboards for 96,577 sales transactions from Healthy Options, Inc. Engineered and implemented FACT and DIMENSION tables, orchestrating an ETL process for smooth data preparation. This initiative not only facilitated efficient analysis but also empowered business executives to address pivotal inquiries.
 
-Analysed Netflix's past content trends, revealing a shift to TV. Clustered 7,787 records highlighted an expanded US movie focus. The project culminates in a content-based recommender system, offering personalised recommendations based on user preferences.
+********************************************************************************************************************************
+********************************************************************************************************************************
 
-Impact of this project
+
